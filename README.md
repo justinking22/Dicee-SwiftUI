@@ -10,6 +10,6 @@ Board Games: Acts as a digital dice for games like Monopoly or Ludo.
 Decision-Making: Helps make simple decisions through dice outcomes.
 Entertainment: A quick and fun way to play with dice virtually.
 In summary, the Dicee App is a straightforward app that provides a digital alternative to physical dice, adding convenience and fun to various activities.
-<img src="Dicee" width="200"> <img src="Dicee1" width="200">
-<img src="Dicee2" width="200">
+<img src="Dicee.png" width="200"> <img src="Dicee1" width="200">
+<img src="Dicee2.png" width="200">
 
