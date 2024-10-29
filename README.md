@@ -12,6 +12,6 @@ Entertainment: A quick and fun way to play with dice virtually.
 In summary, the Dicee App is a straightforward app that provides a digital alternative to physical dice, adding convenience and fun to various activities.
 
 
-<img src="Dicee.png" width="200"> <img src="Dicee1.png" width="200">
-<img src="Dicee2.png" width="200">
+<img src="Dicee.png" width="400"> <img src="Dicee1.png" width="400">
+<img src="Dicee2.png" width="400">
 
